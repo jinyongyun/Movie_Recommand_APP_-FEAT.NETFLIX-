@@ -893,7 +893,11 @@ class ContentCollectionViewRankCell: UICollectionViewCell {
 ```
 
 이 layout을 섹션 분기처리해준 layout 메서드에 추가해준다. 물론 numberOfItemsInSection에도 .basic, .large 만 보여주도록 되어있으니, .rank도 추가해줘야한다. 이렇게 하면 랭크 섹션까지 프리뷰에 잘 나타난다!
-<img width="1622" alt="스크린샷 2024-01-08 오후 11 22 11" src="https://github.com/jinyongyun/Movie_Recommand_APP_FEAT.NETFLIX/assets/102133961/b1bdd3e8-ec26-498c-bfc6-79420dc2d896">
+
+
+https://github.com/jinyongyun/Movie_Recommand_APP_FEAT.NETFLIX/assets/102133961/17732e52-d280-433f-97a8-e2ade069ab7f
+
+
 
 
 ### 리스트 구현하기
